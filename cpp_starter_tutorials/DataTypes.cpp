@@ -11,7 +11,7 @@ int main() {
   // don't forget to check signed, unsigned - short, long, char etc,. the sizes
   // of the vaiables
   // by default, int is signed
-  // initialization - type identifier value;
+  // initialization - type identifier = value;
   // int a = 1;
   // int a(1)
   a = 5;
